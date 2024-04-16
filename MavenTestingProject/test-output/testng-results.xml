@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T17:00:59 IST" name="Default suite" finished-at="2024-04-16T17:01:09 IST" duration-ms="9569">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T17:00:59 IST" name="Default test" finished-at="2024-04-16T17:01:09 IST" duration-ms="9569">
+      <class name="testScriptPOM.swagLabValidation">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:testScriptPOM.swagLabValidation@750e2b97]" started-at="2024-04-16T17:00:59 IST" name="precondition" finished-at="2024-04-16T17:01:05 IST" duration-ms="5541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="testLoginLogout()[pri:1, instance:testScriptPOM.swagLabValidation@750e2b97]" started-at="2024-04-16T17:01:05 IST" name="testLoginLogout" finished-at="2024-04-16T17:01:06 IST" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLogout -->
+        <test-method signature="testcart()[pri:2, instance:testScriptPOM.swagLabValidation@750e2b97]" started-at="2024-04-16T17:01:06 IST" name="testcart" finished-at="2024-04-16T17:01:07 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcart -->
+        <test-method signature="testCheckoutOverview()[pri:3, instance:testScriptPOM.swagLabValidation@750e2b97]" started-at="2024-04-16T17:01:07 IST" name="testCheckoutOverview" finished-at="2024-04-16T17:01:08 IST" duration-ms="1292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutOverview -->
+        <test-method signature="testShoppingOnSwagLab()[pri:4, instance:testScriptPOM.swagLabValidation@750e2b97]" started-at="2024-04-16T17:01:08 IST" name="testShoppingOnSwagLab" finished-at="2024-04-16T17:01:08 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShoppingOnSwagLab -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScriptPOM.swagLabValidation@750e2b97]" started-at="2024-04-16T17:01:08 IST" name="tearDown" finished-at="2024-04-16T17:01:09 IST" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScriptPOM.swagLabValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

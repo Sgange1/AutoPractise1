@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="sampleScript.Seleniumutil"/>
+      <class name="testNG.Example2"/>
+      <class name="testNG.Example1"/>
+      <class name="sampleScript.Jsexample3"/>
+      <class name="testNG.Example4"/>
+      <class name="sampleScript.Jsexample2"/>
+      <class name="testNG.Example3"/>
+      <class name="sampleScript.Jsexample1"/>
+      <class name="testNG.Example6"/>
+      <class name="testNG.Example7"/>
+      <class name="testNG.Sample1"/>
+      <class name="testNG.Sample2"/>
+      <class name="testNG.OrangeHRMPIM"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

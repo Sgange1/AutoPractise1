@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testScriptPOM.OrangeHRM">
+        <methods>
+          <include name="OrangeHRMPIMCreate"/>
+          <include name="OrangeHRMPIMDelete"/>
+          <include name="postcondition"/>
+          <include name="OrangeHRMPIMUpdate"/>
+          <include name="precondition"/>
+          <include name="OrangeHRMLogin"/>
+        </methods>
+      </class> <!-- testScriptPOM.OrangeHRM -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
